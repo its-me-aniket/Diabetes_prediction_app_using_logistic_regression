@@ -13,7 +13,7 @@ A user-friendly web application to predict the likelihood of diabetes in patient
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [File Structure](#file-structure)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -118,9 +118,9 @@ diabetes-prediction-app/
 └── demo.gif              # (Optional) Demo of web app
 ```
 
-## Screenshots
+## Screenshot
 
-*(Insert images or gifs showing the app interface and output example)*
+![Homepage](Screenshot.png)
 
 ## License
 
